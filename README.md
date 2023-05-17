@@ -1,13 +1,8 @@
-```markdown
-<h1 align="center">TestHi Telegram Bot</h1>
+# TestHi Telegram Bot
 
-<p align="center">
-  <img src="https://github.com/miyaxyzz/testhi/blob/main/assets/telegram_bot.png" alt="Telegram Bot" height="200">
-</p>
+![Telegram Bot](https://github.com/miyaxyzz/testhi/blob/main/assets/telegram_bot.png)
 
-<p align="center">
-  <em>A simple Telegram bot for testing and greeting users.</em>
-</p>
+*A simple Telegram bot for testing and greeting users.*
 
 ## Features
 
@@ -31,7 +26,6 @@ To deploy the TestHi Telegram bot on your own server:
    git clone https://github.com/miyaxyzz/testhi.git
    ```
 2. Install the required packages:
-
    ```
    pip install -r requirements.txt
    ```
