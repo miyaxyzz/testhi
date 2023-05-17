@@ -1,3 +1,7 @@
 pydrive
 google-auth
-python-telegram-bot
+google-auth-oauthlib
+google-api-python-client
+google-auth-httplib2
+python-telegram-bot==13.7.0
+pyrogram
