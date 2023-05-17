@@ -30,8 +30,8 @@ To deploy the TestHi Telegram bot on your own server:
    ```
    git clone https://github.com/miyaxyzz/testhi.git
    ```
-
 2. Install the required packages:
+
    ```
    pip install -r requirements.txt
    ```
@@ -46,7 +46,7 @@ To deploy the TestHi Telegram bot on your own server:
 
 5. Run the bot:
    ```
-   python bot.py
+   python3 bot.py
    ```
 
 The bot will start running, and you can interact with it on Telegram.
