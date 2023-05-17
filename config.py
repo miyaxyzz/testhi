@@ -1,0 +1,2 @@
+# Google Drive folder ID
+DRIVE_FOLDER_ID = 'YOUR_DRIVE_FOLDER_ID'
