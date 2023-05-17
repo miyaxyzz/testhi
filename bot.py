@@ -8,10 +8,10 @@ from telegram import ParseMode
 CLIENT_SECRETS_FILE = 'client_secrets.json'
 
 # Telegram bot token
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
+BOT_TOKEN = '6103767186:AAEAi5sxhE3-insz6WfuOomq0rnYL9mbJ5M'
 
 # Telegram group chat ID
-GROUP_CHAT_ID = 'YOUR_GROUP_CHAT_ID'
+GROUP_CHAT_ID = '-928770489'
 
 # Monitor Google Drive for new files and folders
 for file in drive.ListFile({'q': f"'{DRIVE_FOLDER_ID}' in parents and trashed=false"}).GetList():
