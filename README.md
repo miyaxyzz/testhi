@@ -2,7 +2,7 @@
 ```docker build -t telegram-bot .```
 
 # Run the Docker container
-```ocker run -d telegram-bot```
+```docker run -d telegram-bot```
 
 # To delete containers
 
